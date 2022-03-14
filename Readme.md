@@ -7,3 +7,6 @@ We've used [django-money](https://github.com/django-money/django-money) lib for 
 ## Configurations
  All configurations in the .env.example file
  you have to rename it to .env before running the server
+
+## Note
+ For point number 3 in the task, I've stored each pair in the DB for maintaining the count of each pairs
